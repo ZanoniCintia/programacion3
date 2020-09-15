@@ -1,0 +1,10 @@
+ford*negro*12*145fiat*rojo*25*10100toyota*violeta*67*34688<br />toyota*violeta*67*34688
+toyota*violeta*67*34688
+fiat*rojo*18/10/2020*25100
+fiat*rojo*18/10/2020*25100
+fiat*rojo*18/10/2020*25100
+renault*gris*04/12/2020*87700
+renault*gris*04/12/2020*87700
+renault*gris*04/12/2020*87700
+suzuki*rojo*04/12/2021*46099
+yamaha*rojo*04/12/1981*165
