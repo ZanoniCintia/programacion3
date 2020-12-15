@@ -1,0 +1,22 @@
+{   "description": "",
+    "name": "dell-7480t/comandas",
+    "authors": [
+        {
+            "name": "ZanoniCintia",
+            "email": "cintu94@hotmail.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "4.*",
+        "slim/psr7": "^1.2",
+        "illuminate/database": "^8.15",
+        "illuminate/events": "^8.15",
+        "firebase/php-jwt": "^5.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Config\\": "config/",
+            "App\\": "src/"
+        }
+    }
+}

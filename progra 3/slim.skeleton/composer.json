@@ -1,0 +1,17 @@
+{
+    "name": "dell-7480t/esqueleton",
+    "authors": [
+        {
+            "name": "zanonicintia",
+            "email": "cintu94@hotmail.com"
+        }
+    ],
+    "description": "",
+    "require": {
+        "slim/slim": "4.*",
+        "slim/psr7": "^1.2",
+        "firebase/php-jwt": "^5.2"
+    }
+
+   
+}
